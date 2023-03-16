@@ -11,5 +11,9 @@ to indicate that the conversion process has completed.
 
 <h4>So, How Can I Use this basic programm?</h4><hr><br>
 <p>1.After we click the run button,we can see such like window:<br><br>
-<img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Image_Main.png?raw=true" width="640" height="380">
+<img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Image_Main.png?raw=true" width="640" height="380"><br><br>
+  2.By the clicking "Select Input Video" button you can select your video you want to convert:<br>
+<img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Select_file.png?raw=true" width="640" height="380"><br><br>
+  
+
   
