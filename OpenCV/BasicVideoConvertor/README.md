@@ -14,6 +14,10 @@ to indicate that the conversion process has completed.
 <img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Image_Main.png?raw=true" width="640" height="380"><br><br>
   2.By the clicking "Select Input Video" button you can select your video you want to convert:<br>
 <img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Select_file.png?raw=true" width="640" height="380"><br><br>
+  3.After you selected your video,You will click the "Select Output path" button for saving your converted video:<br>
+<img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Select_OutPutPath.png?raw=true" width="640" height="380"><br><br>
+ 4.After that you have to click the "Convert Video" button.Then You will see notification about succesful video convention.Such like that:
+<img src="https://github.com/Optimus970803/Python-Programming/blob/main/OpenCV/BasicVideoConvertor/ScreenShots/Success.png?raw=true" width="640" height="380"><br><br>
   
 
   
