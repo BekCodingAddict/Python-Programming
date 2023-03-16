@@ -1,11 +1,4 @@
-<h2 style="
-    background-color:aquamarine;
-    color: black;
-    padding: 20px;
-    border-radius:10px;
-    text-align: center;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-transform: uppercase;">Short Explantation of My basic VideoConvertor Code</h2>
+<h2>Short Explantation of My basic VideoConvertor Code</h2>
   
 This code will create a GUI window with three buttons: one for selecting the input video file, 
 one for selecting the output file path, and one for starting the conversion process.
