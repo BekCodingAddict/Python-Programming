@@ -15,3 +15,7 @@ the same video codec, frame rate, width, and height as the input video. The fram
 file and written to the output file until the end of the file is reached.
 Finally, a message box is displayed
 to indicate that the conversion process has completed.
+
+
+##So, How Can I Use this basic programm?
+1
