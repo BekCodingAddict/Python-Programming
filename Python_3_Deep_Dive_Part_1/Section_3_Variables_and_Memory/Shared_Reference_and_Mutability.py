@@ -26,6 +26,8 @@ print(f'person #={id(person)}') #same id because dictionary is mutable
 person["name"]="Jane" #change the value of the dictionary
 print(f'person #={id(person)}') #same id because dictionary is mutable
 print(person["name"]) #print the value of the dictionary
+name="David"
+print(person["name"]) #print the value of the dictionary
 print(name) #print the value of the variable
 
 aa=500
