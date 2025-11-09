@@ -1,0 +1,1 @@
+Hello world, hello everyone. Welcome to the world of Python.
