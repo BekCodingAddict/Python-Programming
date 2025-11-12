@@ -1,0 +1,15 @@
+ChatGPT is an advanced AI chatbot developed by OpenAI that generates human-like text in response to user prompts, questions, and commands. It is a type of large language model (LLM) that understands context and can write, explain complex topics, create code, and more, by predicting the most likely next word in a sentence based on the massive dataset it was trained on. 
+How it works
+Large Language Model: ChatGPT is built on the "Generative Pre-trained Transformer" (GPT) framework, which uses neural networks trained on vast amounts of internet text to learn language patterns.
+Deep Learning and NLP: It uses deep learning and natural language processing (NLP) to understand the nuances of human language, both written and spoken.
+Contextual Understanding: The model works by processing the conversation's context and predicting the most probable words to form a coherent and relevant response. 
+What it can do
+Generate and edit text: Write emails, articles, poems, and various forms of content. It can also summarize, edit, and brainstorm ideas.
+Answer questions: Provide information on a wide range of subjects, from simple facts to complex topics.
+Write and debug code: Generate new code or help identify and fix errors in existing code.
+Language translation: Translate text between over 80 languages.
+Summarize documents: Upload and summarize documents like PDFs or presentations. 
+How to use it
+Access: It is available through a web browser or a mobile app and requires an account to use.
+Cost: There is a free version, with paid subscriptions offering access to more advanced models and features.
+Interaction: You can interact with it through text, and sometimes through audio or image prompts, depending on the version. 
