@@ -1,0 +1,10 @@
+ipykernel
+python-dotenv
+langchain
+langchain_community
+pypdf
+beautifulsoup4
+arxiv
+pymupdf
+fitz
+wikipedia
