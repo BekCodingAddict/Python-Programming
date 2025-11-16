@@ -9,3 +9,5 @@ pymupdf
 fitz
 wikipedia
 langchain-text-splitters
+langchain-openai
+chromadb
