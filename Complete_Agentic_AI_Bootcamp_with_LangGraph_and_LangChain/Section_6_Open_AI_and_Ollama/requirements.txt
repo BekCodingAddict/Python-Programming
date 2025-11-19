@@ -1,8 +1,8 @@
 ipykernel
 python-dotenv
 langchain
+langchain-classic
 langchain_community
-langchain-community
 pypdf
 beautifulsoup4
 arxiv
