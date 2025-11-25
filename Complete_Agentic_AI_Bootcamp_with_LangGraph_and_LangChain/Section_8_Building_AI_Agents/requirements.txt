@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+langchain
+langchain-classic
+langchain_community
+langchain-text-splitters
+langchain-openai
+sentence_transformers
+openai
+langserve
+sse_starlette
+langchain-groq
