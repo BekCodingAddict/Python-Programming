@@ -10,3 +10,5 @@ openai
 langserve
 sse_starlette
 langchain-groq
+langchain-chroma
+langchain_huggingface
