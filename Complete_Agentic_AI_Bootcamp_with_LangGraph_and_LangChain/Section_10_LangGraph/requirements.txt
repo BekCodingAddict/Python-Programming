@@ -3,3 +3,4 @@ langchain
 langgraph
 langchain-community
 langchain-core
+typing-extensions
