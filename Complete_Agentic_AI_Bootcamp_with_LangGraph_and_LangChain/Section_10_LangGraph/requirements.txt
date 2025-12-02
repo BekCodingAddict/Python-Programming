@@ -4,3 +4,6 @@ langgraph
 langchain-community
 langchain-core
 typing-extensions
+python-dotenv
+langchain-openai
+langchain-groq
